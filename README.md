@@ -48,3 +48,5 @@ licensed: GPL http://www.gnu.org/licenses/gpl.html
 
   [1]: https://github.com/bainternet/FlatFileDB/zipball/master
   [2]: https://github.com/bainternet/FlatFileDB/tarball/master
+  
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/91b4c4784641675662d0b82a94dace2a "githalytics.com")](http://githalytics.com/bainternet/FlatFileDB)
